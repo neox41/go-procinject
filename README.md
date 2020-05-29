@@ -11,7 +11,7 @@ For each technique, the program does the following steps:
 5. Execute the MessageBox shellcode
 
 <p align="center">
-  <img src="https://github.com/mattiareggiani/go-procinject/blob/master/example.png" height="200">
+  <img src="https://github.com/mattiareggiani/go-procinject/blob/master/example.png" height="400">
 </p>
 
 ## Techniques
